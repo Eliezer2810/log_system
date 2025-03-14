@@ -5,3 +5,4 @@
 Para ejecutar el sistema, debes poner:
 
 ```npm install react```
+- Testing "pull" method.
